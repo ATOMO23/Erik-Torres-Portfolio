@@ -30,7 +30,7 @@
 </div>
 
 <!-- Línea separadora -->
-<hr style="border: none; height: 2px; background-color: #ccc; width: 80%; margin: 20px auto;">
+<hr style="border: none; height: 2px; background-color: yellow; width: 80%; margin: 20px auto;">
 
 
 
