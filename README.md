@@ -64,16 +64,14 @@ A social elimination game where each player receives by email the name of their 
 
 <div align="center">
 
-✨ <h3>Let's Connect!</h3> ✨  
-
 <a href="https://www.linkedin.com/in/erik-torres23/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<div></div>
+
 <a href="mailto:eriktorres.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<div></div>
+
 <a href="https://github.com/ATOMO23" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ATOMO23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
