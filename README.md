@@ -7,9 +7,6 @@
        style="width: 200px; height: 200px; object-fit: cover;" />
 </p>
 
-
-<h2 align="left">I code with</h2>
-
 ### Lenguajes de programación
 
 <div align="center">
@@ -31,4 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+### Línea separadora 
+<div style="width: 80%; margin: 20px auto; border-bottom: 2px solid #ddd;"></div>
 
