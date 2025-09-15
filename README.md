@@ -1,7 +1,12 @@
 # Erik-Torres-Portfolio
 <h1 align="center">Erik Torres (@ATOMO23)</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" width="25%" style="border:1px solid #ddd border-radius:8px" align="center">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" 
+       alt="Perfil" 
+       width="200px" 
+       style="border-radius: 50%; border: 2px solid #ddd;" />
+</div>
 <h2 align="left">I code with</h2>
 
 ### Lenguajes de programación
