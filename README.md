@@ -2,7 +2,7 @@
 <h1 align="center">Erik Torres (@ATOMO23)</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon-removebackground-preview.png" 
+  <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon-removebg-preview.png" 
        alt="Perfil"
        style="width: 200px; height: 200px; object-fit: cover;" />
 </p>
