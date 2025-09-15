@@ -1,12 +1,11 @@
 # Erik-Torres-Portfolio
 <h1 align="center">Erik Torres (@ATOMO23)</h1>
 <h3 align="center">Full Stack Developer</h3>
-<div style="text-align: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" 
-       alt="Perfil" 
-       width="150px"/>
-</div>
-
+       alt="Perfil"
+       style="width: 200px; height: 200px; object-fit: cover;" />
+</p>
 
 
 <h2 align="left">I code with</h2>
