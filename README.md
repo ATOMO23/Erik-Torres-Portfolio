@@ -30,6 +30,7 @@
 </div>
 
 <!-- Línea separadora -->
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #ff7e5f, #feb47b); width: 80%; margin: 20px auto;">
+<hr style="border: none; height: 2px; background-color: #ccc; width: 80%; margin: 20px auto;">
+
 
 
