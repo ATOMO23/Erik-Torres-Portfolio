@@ -30,5 +30,5 @@
 </div>
 
 ### Línea separadora 
-<div style="width: 80%; margin: 20px auto; border-bottom: 2px solid #ddd;"></div>
+<div style="width: 70%; margin: 20px auto; border-bottom: 4px solid #fff;"></div>
 
