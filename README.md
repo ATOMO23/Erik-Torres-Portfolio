@@ -2,7 +2,7 @@
 <h1 align="center">Erik Torres (@ATOMO23)</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" 
          alt="Perfil"
          style="width: 100%; height: 100%; object-fit: cover;" />
