@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-<!-- Línea separadora -->
-<hr style="border: none; height: 2px; width: 80%; margin: 20px auto;">
 
 ### 🚀 Projects
 
