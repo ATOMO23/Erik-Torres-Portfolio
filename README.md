@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" 
        alt="Perfil" 
-       width="200px" 
-       style="border-radius: 50%; border: 2px solid #ddd;" />
+       width="200" 
+       height="200"
+       style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" />
 </p>
 <h2 align="left">I code with</h2>
 
