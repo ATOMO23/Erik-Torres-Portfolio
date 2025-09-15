@@ -60,6 +60,7 @@ A social elimination game where each player receives by email the name of their 
 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/etorresruiz/)
+[![Email](https://img.shields.io/badge/Email-eriktorresruiz@gmail.com-D14836?style=flat&logo=gmail)](https://www.linkedin.com/in/etorresruiz/)
 
 ## 📬 Contact
 
