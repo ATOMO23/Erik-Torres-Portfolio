@@ -61,6 +61,16 @@ A social elimination game where each player receives by email the name of their 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/etorresruiz/)
 
+## 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erik%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-torres23/)
+[![Email](https://img.shields.io/badge/Email-eriktorres.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriktorres.dev@gmail.com)
+
+</div>
+
+
 
 
 
