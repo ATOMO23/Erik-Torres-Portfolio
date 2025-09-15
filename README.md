@@ -7,7 +7,7 @@
        style="width: 200px; height: 200px; object-fit: cover;" />
 </p>
 
-### Lenguajes de programación
+<!-- Lenguajes de programación -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-### Línea separadora 
-<hr style="border: 1px solid grey; margin: 20px 0;">
+<!-- Línea separadora -->
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #ff7e5f, #feb47b); width: 80%; margin: 20px auto;">
+
 
