@@ -58,9 +58,7 @@ A social elimination game where each player receives by email the name of their 
 ### 📈 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMO23&show_icons=true&locale=en" alt="ATOMO23" /></p>
 
-### 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/etorresruiz/)
-[![Email](https://img.shields.io/badge/Email-0077B5?style=flat&logo=gmail)](https://www.linkedin.com/in/etorresruiz/)
+
 
 ## 📬 Contact
 
@@ -68,16 +66,17 @@ A social elimination game where each player receives by email the name of their 
 
 ✨ **Let's Connect!** ✨  
 
-<a href="https://www.linkedin.com/in/etorresruiz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Erik%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/erik-torres23/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:eriktorres.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-eriktorresruiz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/ATOMO23" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ATOMO23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
+
 
 
 
