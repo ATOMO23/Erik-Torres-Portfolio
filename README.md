@@ -1,7 +1,7 @@
 # Erik-Torres-Portfolio
 <h1 align="center">Erik Torres (@ATOMO23)</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" width="45%" style="border:1px solid #ddd">
+<img src="https://raw.githubusercontent.com/ATOMO23/Erik-Torres-Portfolio/main/assets/logoCartoon.png" width="25%" style="border:1px solid #ddd border-radius:8px" align="center">
 <h2 align="left">I code with</h2>
 
 ### Lenguajes de programación
@@ -26,8 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-### Snake
-
-<img src="https://raw.githubusercontent.com/ATOMO23/ATOMO23/output/snake.svg" alt="Snake animation" />
-
-###
