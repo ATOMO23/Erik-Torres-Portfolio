@@ -33,9 +33,8 @@
 ### 🚀 Projects
 
 #### 🎵 Music Manager - JAVA  
-🎶 Command-Line Music Player in Java 
-A terminal-based app to play and organize music using JSON/XML for data handling. 
-🔧 Java · Terminal · JSON · XML
+<p>A terminal-based app to play and organize music using JSON/XML for data handling.</p>
+<p>🔧Java · Terminal · JSON · XML</p>
 
 🖼️ **Screenshots**:  
 <img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" width="40%" style="border:1px solid #ddd">  
