@@ -30,6 +30,18 @@
 </div>
 
 
+### 🚀 Projects
+
+#### 🎵 Music Manager in Java  
+**Terminal · Java · JSON · XML**  
+Command-line music player and organizer  
+
+🖼️ **Screenshots**:  
+<img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" width="45%" style="border:1px solid #ddd">  
+<img src="https://github.com/user-attachments/assets/0dae3102-e822-4192-a3c5-69a9d123e658" width="45%" style="border:1px solid #ddd">
+
+
+
 
 ### 📈 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOMO23&show_icons=true&locale=en" alt="ATOMO23" /></p>
