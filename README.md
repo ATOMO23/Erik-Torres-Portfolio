@@ -30,27 +30,6 @@
 </div>
 
 
-### 🚀 Projects
-
-#### 🎵 Music Manager in Java  
-**Terminal · Java · JSON · XML**  
-Command-line music player and organizer  
-
-🖼️ **Screenshots**:  
-<img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" width="45%" style="border:1px solid #ddd">  
-<img src="https://github.com/user-attachments/assets/0dae3102-e822-4192-a3c5-69a9d123e658" width="45%" style="border:1px solid #ddd">
-
-[View code →](https://github.com/Waffle639/GestorMusical)  
-
-#### 💋 Killer Kiss  
-**Social Game · Java · Email · JSON**  
-A social elimination game where each player receives by email the name of their target. The goal is to "kill" (kiss) the target without being seen by others. Players are assigned in a closed circle, and all data (games, players, rankings) is stored in JSON.
-
-🖼️ **Screenshots**:  
-<img src="https://github.com/user-attachments/assets/5dd10b3d-4e93-4c22-878b-cad7cb393c75" width="45%" style="border:1px solid #ddd">  
-<img src="https://github.com/user-attachments/assets/0856c668-3c26-4ff6-a2eb-8b0e2a18b8b7" width="45%" style="border:1px solid #ddd">  
-
-[View code →](https://github.com/Waffle639/Killer-Kiss) 
 
 ---
 ### 📈 GitHub Stats
@@ -62,11 +41,11 @@ A social elimination game where each player receives by email the name of their 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/erik-torres23/" target="_blank">
+<a href="https://www.linkedin.com/in/etorresruiz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:eriktorres.dev@gmail.com">
+<a href="mailto:eriktorresruiz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
